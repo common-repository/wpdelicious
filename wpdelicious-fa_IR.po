@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Delicious\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-17 18:20+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mostafa <mst404@gmail.com>\n"
+"Language-Team: iran98.org <mst404@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-delicious.php:16
+msgid "Latest Delicious"
+msgstr "آخرین‌های خوش‌مزه"
+
+#: wp-delicious.php:20
+msgid "Latest posts in wpdelicious"
+msgstr "آخرین ارسالی‌های وردپرس خوش‌مزه"
+
+#: wp-delicious.php:43
+msgid "Sent To WPDelicio.us"
+msgstr "ارسال به وردپرس خوشمزه"
+
+#~ msgid "My Widget Title"
+#~ msgstr "شلام"
+
